@@ -120,7 +120,6 @@ data-warehouse-project/
 ├── LICENSE
 └── .gitignore
 🚀 Who This Project Is For
-
 This repository demonstrates practical skills relevant to:
 
 SQL Developer
