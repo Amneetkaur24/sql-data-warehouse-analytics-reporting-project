@@ -100,20 +100,24 @@ Git & GitHub
 
 📂 Repository Structure
 data-warehouse-project/
+
 │
 ├── datasets/                # ERP and CRM raw CSV files
 │
+
 ├── docs/                    # Documentation and architecture files
 │   ├── data_architecture.drawio
 │   ├── data_models.drawio
 │   ├── data_flow.drawio
 │   ├── data_catalog.md
 │
+
 ├── scripts/
 │   ├── bronze/              # Raw data loading scripts
 │   ├── silver/              # Data cleansing & transformation scripts
 │   ├── gold/                # Star schema & analytical model scripts
 │
+
 ├── tests/                   # Data validation and testing queries
 │
 ├── README.md
