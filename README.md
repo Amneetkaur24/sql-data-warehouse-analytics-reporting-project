@@ -100,7 +100,7 @@ Git & GitHub
 
 
 Structure
-
+```
 sales-data-warehouse-architecture
 │
 ├── datasets
@@ -150,8 +150,7 @@ sales-data-warehouse-architecture
 │
 ├── LICENSE
 └── README.md
-
-
+```
 
 
 
