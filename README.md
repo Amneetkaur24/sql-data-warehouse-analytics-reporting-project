@@ -98,28 +98,31 @@ Draw.io (Architecture & Data Modeling)
 
 Git & GitHub
 
+## Structure
+
 data-warehouse-project/
-│
-├── datasets/
-│   └── (ERP and CRM raw CSV files)
-│
-├── docs/
-│   ├── data_architecture.drawio
-│   ├── data_models.drawio
-│   ├── data_flow.drawio
-│   └── data_catalog.md
-│
-├── scripts/
-│   ├── bronze/   (Raw data loading scripts)
-│   ├── silver/   (Data cleansing & transformation scripts)
-│   └── gold/     (Star schema & analytical model scripts)
-│
-├── tests/
-│   └── (Data validation and testing queries)
-│
-├── README.md
-├── LICENSE
-└── .gitignore
+|
+|-- datasets/
+|   |-- (ERP and CRM raw CSV files)
+|
+|-- docs/
+|   |-- data_architecture.drawio
+|   |-- data_models.drawio
+|   |-- data_flow.drawio
+|   |-- data_catalog.md
+|
+|-- scripts/
+|   |-- bronze/   (Raw data loading scripts)
+|   |-- silver/   (Data cleansing & transformation scripts)
+|   |-- gold/     (Star schema & analytical model scripts)
+|
+|-- tests/
+|   |-- (Data validation and testing queries)
+|
+|-- README.md
+|-- LICENSE
+`-- .gitignore
+
 
 
 🚀 Who This Project Is For
